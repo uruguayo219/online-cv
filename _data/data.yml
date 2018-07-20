@@ -9,39 +9,33 @@ sidebar:
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Kevin Raymond
+    tagline: System Administrator
+    pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: raymond.kevin01@gmail.com
+    phone: 786 578 3425
+    website: kevin-raymond.com #do not add http://
+    linkedin: kevin-raymond-15975442
+
 
     languages:
         - language:
           idiom: English
-          level: Native
-        - language:
-          idiom: French
           level: Professional
         - language:
           idiom: Spanish
-          level: Professional
+          level: Native
         
     interests:
         - interest:
-          item: Climbing
+          item: Technology
           link:
         - interest:
-          item: Snowboarding
+          item: Voluntary Services
           link:
-        - interest:
-          item: Cooking
-          link:
+
 
         
 
@@ -50,28 +44,19 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: Accomplished Microsoft certified Network and Systems Administrator with top expertise in tuning and top notch IT infrastructures, crisis management and troubleshooting, high availability to increase reliability, maximize productiviry, and introduce system efficiencies.
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: BS in Information Technology 
+      university: Florida International University
+      date of completion : 2019
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
-
+      degree: AS in Networking Services Technology 
+      university: Miami Dade College
+      date of completion: 2013
 
 
 experiences:
@@ -79,20 +64,20 @@ experiences:
     
     
     experiences:
-        - role: Lead Developer
-          time: 2015 - Present
-          company: Startup Hubs, San Francisco
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        - role: Systems Administrator
+          time: 2018 - Present
+          company: Metric Engineering, Miami
+          details: As a System Administrator, I establish and manage enterprise-wide projects. Oversee company wide efforts to identify and evaluate all critical systems. Design and implement security processes and procedures. Supervise activities of helpdesk personnel.
 
-        - role: Senior Software Engineer
-          time: 2014 - 2015
-          company: Google, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - role: Messaging & Systems Administrator
+          time: 2014 - 2018
+          company: Brand Institute, Miami
+          details: Implementation and Administration of mail infrastructure, mail and anti-spam gateway appliances, remote mail access, mobile messaging, email archiving systems and overall security administration of these systems.
         
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - role: Helpdesk Support Engineer
+          time: 2013 - 2014
+          company: Advances POS Solutions, Miami
+          details: Provide support for software, hardware and networking related issues in a help desk support environment, superior customer service & troubleshooting skills.
 
 
 projects:
@@ -149,24 +134,18 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Enterprise Messaging
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Enterprise Antivirus
         - skill:
-          name: Angular
-          level: 98%
+          name: Windows Server 2003, 2008, 2012, 2016
         - skill:
-          name: HTML5 & CSS
-          level: 95%
+          name: Network Security
         - skill:
-          name: Ruby on Rails
-          level: 85%
-        - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Active Directory
+
 
 
 footer: 
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+
