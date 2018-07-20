@@ -135,14 +135,19 @@ skills:
     skills:
         - skill:
           name: Enterprise Messaging
+          level: 80%
         - skill:
           name: Enterprise Antivirus
+          level: 80%
         - skill:
           name: Windows Server 2003, 2008, 2012, 2016
+          level: 90%
         - skill:
           name: Network Security
+          level: 90%
         - skill:
           name: Active Directory 
+          level: 85%
 
 
 
